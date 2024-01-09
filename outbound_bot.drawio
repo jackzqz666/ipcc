@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T07:23:56.821Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="AlkkUqg3-Ztmlj0yowUk" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-09T07:33:49.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="WgRuST3kQ9JD1ACWSKCq" version="22.1.17" type="github">
   <diagram name="第 1 页" id="-GU9wbzKYo2kmMdxFR-d">
     <mxGraphModel dx="1434" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
           <mxGeometry x="850" y="130" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="drsyYb6Or7yOjJQy-XR_-6" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.call_center_agent;" parent="1" vertex="1">
-          <mxGeometry x="270" y="770" width="46" height="55" as="geometry" />
+          <mxGeometry x="342" y="750" width="46" height="55" as="geometry" />
         </mxCell>
         <mxCell id="drsyYb6Or7yOjJQy-XR_-8" value="SSC/SG" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.server" parent="1" vertex="1">
           <mxGeometry x="605" y="540" width="50" height="15" as="geometry" />
@@ -118,15 +118,15 @@
         <mxCell id="aashaU6Qa32y-RPEb3OF-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.voip_gateway;" vertex="1" parent="1">
           <mxGeometry x="634" y="1129" width="51" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="aashaU6Qa32y-RPEb3OF-3" value="5. 发起呼叫到运营商" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="aashaU6Qa32y-RPEb3OF-6" target="aashaU6Qa32y-RPEb3OF-2">
+        <mxCell id="aashaU6Qa32y-RPEb3OF-3" value="4. 发起呼叫到运营商" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="aashaU6Qa32y-RPEb3OF-6" target="aashaU6Qa32y-RPEb3OF-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aashaU6Qa32y-RPEb3OF-4" value="8. 返回200OK" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aashaU6Qa32y-RPEb3OF-6" target="aashaU6Qa32y-RPEb3OF-2">
+        <mxCell id="aashaU6Qa32y-RPEb3OF-4" value="7. 返回200OK" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aashaU6Qa32y-RPEb3OF-6" target="aashaU6Qa32y-RPEb3OF-2">
           <mxGeometry x="-0.3485" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aashaU6Qa32y-RPEb3OF-5" value="6. 呼叫用户" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.07;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aashaU6Qa32y-RPEb3OF-6">
+        <mxCell id="aashaU6Qa32y-RPEb3OF-5" value="5. 呼叫用户" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.07;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aashaU6Qa32y-RPEb3OF-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="939" as="targetPoint" />
           </mxGeometry>
@@ -147,12 +147,12 @@
           <mxGeometry x="880" y="959" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aashaU6Qa32y-RPEb3OF-11" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.call_center_agent;" vertex="1" parent="1">
-          <mxGeometry x="296" y="1599" width="46" height="55" as="geometry" />
+          <mxGeometry x="375" y="1590" width="46" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="aashaU6Qa32y-RPEb3OF-12" value="SSC/SG" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.server" vertex="1" parent="1">
+        <mxCell id="aashaU6Qa32y-RPEb3OF-12" value="ZO/SSC/SG" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.server" vertex="1" parent="1">
           <mxGeometry x="635" y="1369" width="50" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="aashaU6Qa32y-RPEb3OF-13" value="4. 选择网关" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aashaU6Qa32y-RPEb3OF-14" target="aashaU6Qa32y-RPEb3OF-2">
+        <mxCell id="aashaU6Qa32y-RPEb3OF-13" value="3. 选择网关" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aashaU6Qa32y-RPEb3OF-14" target="aashaU6Qa32y-RPEb3OF-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aashaU6Qa32y-RPEb3OF-14" value="outbound" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.server" vertex="1" parent="1">
@@ -161,21 +161,15 @@
         <mxCell id="aashaU6Qa32y-RPEb3OF-15" value="CRM" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.server" vertex="1" parent="1">
           <mxGeometry x="325" y="1559" width="50" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="aashaU6Qa32y-RPEb3OF-16" value="2.发起外呼请求" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aashaU6Qa32y-RPEb3OF-22" target="aashaU6Qa32y-RPEb3OF-12">
+        <mxCell id="aashaU6Qa32y-RPEb3OF-16" value="9.发起机器人服务请求" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aashaU6Qa32y-RPEb3OF-22" target="aashaU6Qa32y-RPEb3OF-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="1376.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aashaU6Qa32y-RPEb3OF-17" value="3.路由到外呼系统" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aashaU6Qa32y-RPEb3OF-12" target="aashaU6Qa32y-RPEb3OF-14">
+        <mxCell id="aashaU6Qa32y-RPEb3OF-17" value="2.系统发起外呼" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aashaU6Qa32y-RPEb3OF-12" target="aashaU6Qa32y-RPEb3OF-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aashaU6Qa32y-RPEb3OF-18" value="1.导入外呼任务" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aashaU6Qa32y-RPEb3OF-22" target="aashaU6Qa32y-RPEb3OF-15">
-          <mxGeometry x="0.4286" relative="1" as="geometry">
-            <mxPoint x="350" y="1406.5" as="sourcePoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aashaU6Qa32y-RPEb3OF-19" value="7. 用户接听" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aashaU6Qa32y-RPEb3OF-20" target="aashaU6Qa32y-RPEb3OF-6">
+        <mxCell id="aashaU6Qa32y-RPEb3OF-19" value="6. 用户接听" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aashaU6Qa32y-RPEb3OF-20" target="aashaU6Qa32y-RPEb3OF-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aashaU6Qa32y-RPEb3OF-20" value="用户" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;" vertex="1" parent="1">
@@ -187,7 +181,7 @@
         <mxCell id="aashaU6Qa32y-RPEb3OF-22" value="FreeSwitch" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.server" vertex="1" parent="1">
           <mxGeometry x="325" y="1369" width="50" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="aashaU6Qa32y-RPEb3OF-23" value="9. 确认接通" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aashaU6Qa32y-RPEb3OF-2" target="aashaU6Qa32y-RPEb3OF-12">
+        <mxCell id="aashaU6Qa32y-RPEb3OF-23" value="8. 确认接通" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aashaU6Qa32y-RPEb3OF-2" target="aashaU6Qa32y-RPEb3OF-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="760" y="1139" />
@@ -195,15 +189,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aashaU6Qa32y-RPEb3OF-24" value="10. 调用机器人API，触发机器人放音" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.433;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aashaU6Qa32y-RPEb3OF-12" target="aashaU6Qa32y-RPEb3OF-21">
-          <mxGeometry x="-0.31" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aashaU6Qa32y-RPEb3OF-25" value="12. 机器人与用户交互" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;strokeColor=#FF0000;" edge="1" parent="1" source="aashaU6Qa32y-RPEb3OF-21" target="aashaU6Qa32y-RPEb3OF-22">
+        <mxCell id="aashaU6Qa32y-RPEb3OF-25" value="11. 机器人与用户交互" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;strokeColor=#FF0000;" edge="1" parent="1" source="aashaU6Qa32y-RPEb3OF-21" target="aashaU6Qa32y-RPEb3OF-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aashaU6Qa32y-RPEb3OF-26" value="11.转发语音流到机器人" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;startArrow=classic;startFill=1;exitX=0.015;exitY=0.97;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aashaU6Qa32y-RPEb3OF-14" target="aashaU6Qa32y-RPEb3OF-22">
+        <mxCell id="aashaU6Qa32y-RPEb3OF-26" value="10.转发语音流到机器人" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;startArrow=classic;startFill=1;exitX=0.015;exitY=0.97;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aashaU6Qa32y-RPEb3OF-14" target="aashaU6Qa32y-RPEb3OF-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aashaU6Qa32y-RPEb3OF-27" value="13.机器人交互信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aashaU6Qa32y-RPEb3OF-21" target="aashaU6Qa32y-RPEb3OF-15">
@@ -214,11 +203,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aashaU6Qa32y-RPEb3OF-28" value="14. 呼叫信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aashaU6Qa32y-RPEb3OF-12" target="aashaU6Qa32y-RPEb3OF-15">
+        <mxCell id="aashaU6Qa32y-RPEb3OF-28" value="12. 呼叫信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aashaU6Qa32y-RPEb3OF-12" target="aashaU6Qa32y-RPEb3OF-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aashaU6Qa32y-RPEb3OF-29" value="ZingZO&lt;br&gt;Outbound To BOT" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="70" y="860" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aashaU6Qa32y-RPEb3OF-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="aashaU6Qa32y-RPEb3OF-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="1560" as="sourcePoint" />
+            <mxPoint x="400" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aashaU6Qa32y-RPEb3OF-31" value="1.导入外呼任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aashaU6Qa32y-RPEb3OF-30">
+          <mxGeometry x="-0.4565" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
